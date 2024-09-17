@@ -1,0 +1,12 @@
+git branch
+git checkout -b "fb_A1_Coursera"
+git status
+git add .
+git status
+git commit -m"A1_Coursera"
+git push
+git branch
+git push -u origin fb_A1_Coursera
+git checkout master
+git pull
+doskey /history >> gitBranch
